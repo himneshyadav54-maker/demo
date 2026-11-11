@@ -1,0 +1,6 @@
+{
+  "name": "Shree Balaji Jungle Resorts",
+  "description": "Modern, premium responsive website for Shree Balaji Jungle Resorts in Indore, Madhya Pradesh, India. Featuring peaceful nature stays, delicious food, and group outings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
